@@ -1,7 +1,11 @@
 body {
 
 	margin:0;
-	font-family: Helvetica; 
+	font-family: Helvetica;
+}
+
+h1{
+	font-weight: lighter;
 }
 
 #logo {
